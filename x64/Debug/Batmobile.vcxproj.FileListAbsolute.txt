@@ -1,0 +1,2 @@
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\x64\Debug\glew32.dll
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\x64\Debug\Batmobile.exe

@@ -1,0 +1,45 @@
+﻿  main.cpp
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\Car.h(9,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\Car.h(10,61): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\Car.h(10,74): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\Car.h(10,81): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\Car.h(10,88): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\Car.h(11,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(34,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(54,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(85,30): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(85,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(91,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(107,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(119,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(127,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(138,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(165,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(210,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(298,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(299,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(300,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(300,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(301,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(301,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(312,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(535,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(536,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\main.cpp(537,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sablon.vcxproj -> C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Sablon\x64\Debug\Sablon.exe

@@ -1,0 +1,48 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Sablon.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\Car.h(9,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\Car.h(10,61): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\Car.h(10,74): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\Car.h(10,81): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\Car.h(10,88): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\Car.h(11,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(36,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(44,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(67,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(98,30): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(98,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(104,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(120,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(132,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(140,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(151,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(178,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(223,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(309,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(310,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(311,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(311,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(312,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(312,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(322,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(342,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(587,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(588,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\main.cpp(589,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Batmobile.vcxproj -> C:\Users\erdel\OneDrive\Desktop\sablonZaRadAutomobil\Batmobile_Erdelji_SV492020\x64\Debug\Batmobile.exe
